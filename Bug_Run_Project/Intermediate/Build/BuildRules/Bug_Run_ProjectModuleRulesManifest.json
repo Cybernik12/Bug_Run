@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\niksy\\Documents\\Unreal Projects\\Bug_Run\\Bug_Run_Project\\Source\\Bug_Run_Project\\Bug_Run_Project.Build.cs",
+		"C:\\Users\\niksy\\Documents\\Unreal Projects\\Bug_Run\\Bug_Run_Project\\Source\\Bug_Run_Project.Target.cs",
+		"C:\\Users\\niksy\\Documents\\Unreal Projects\\Bug_Run\\Bug_Run_Project\\Source\\Bug_Run_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

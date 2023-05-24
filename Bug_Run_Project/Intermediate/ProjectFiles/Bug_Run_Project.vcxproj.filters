@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Bug_Run_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bug_Run_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Bug_Run_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Bug_Run_Project">
+      <UniqueIdentifier>{39368DFA-128F-35FB-B095-D935D341A2BF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bug_Run_Project\Bug_Run_Project.Build.cs">
+      <Filter>Source\Bug_Run_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Bug_Run_Project\Bug_Run_Project.cpp">
+      <Filter>Source\Bug_Run_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bug_Run_Project\Bug_Run_Project.h">
+      <Filter>Source\Bug_Run_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bug_Run_Project\Bug_Run_ProjectGameModeBase.cpp">
+      <Filter>Source\Bug_Run_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bug_Run_Project\Bug_Run_ProjectGameModeBase.h">
+      <Filter>Source\Bug_Run_Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bug_Run_Project",
+			"Path": "C:\\Users\\niksy\\Documents\\Unreal Projects\\Bug_Run\\Bug_Run_Project\\Source\\Bug_Run_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Bug_Run_ProjectEditor",
+			"Path": "C:\\Users\\niksy\\Documents\\Unreal Projects\\Bug_Run\\Bug_Run_Project\\Source\\Bug_Run_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

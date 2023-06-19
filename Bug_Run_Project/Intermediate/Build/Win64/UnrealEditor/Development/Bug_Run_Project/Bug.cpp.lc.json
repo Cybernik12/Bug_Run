@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\source\\bug_run_project\\private\\bug.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\bug_run_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\unrealeditor\\development\\bug_run_project\\definitions.bug_run_project.h",
+            "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\source\\bug_run_project\\public\\bug.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\unrealeditor\\inc\\bug_run_project\\bug.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

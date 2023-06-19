@@ -41,5 +41,23 @@
     <ClInclude Include="..\..\Source\Bug_Run_Project\Bug_Run_ProjectGameModeBase.h">
       <Filter>Source\Bug_Run_Project</Filter>
     </ClInclude>
+    <Filter Include="Source\Bug_Run_Project\Private">
+      <UniqueIdentifier>{2CCB46E7-623F-3B3C-A4EE-F8324558BB18}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bug_Run_Project\Private\Bug.cpp">
+      <Filter>Source\Bug_Run_Project\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bug_Run_Project\Private\MyCharacter.cpp">
+      <Filter>Source\Bug_Run_Project\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Bug_Run_Project\Public">
+      <UniqueIdentifier>{67D91820-7CF2-3D83-9228-783AE3B698E6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Bug_Run_Project\Public\Bug.h">
+      <Filter>Source\Bug_Run_Project\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bug_Run_Project\Public\MyCharacter.h">
+      <Filter>Source\Bug_Run_Project\Public</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

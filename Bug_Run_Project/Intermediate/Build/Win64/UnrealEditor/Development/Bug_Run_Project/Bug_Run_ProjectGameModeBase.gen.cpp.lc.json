@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\unrealeditor\\inc\\bug_run_project\\bug_run_projectgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\bug_run_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\unrealeditor\\development\\bug_run_project\\definitions.bug_run_project.h",
+            "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\source\\bug_run_project\\bug_run_projectgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\unrealeditor\\inc\\bug_run_project\\bug_run_projectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

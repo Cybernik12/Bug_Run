@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\unrealeditor\\inc\\bug_run_project\\bug_run_project.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\bug_run_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\niksy\\documents\\unreal projects\\bug_run\\bug_run_project\\intermediate\\build\\win64\\unrealeditor\\development\\bug_run_project\\definitions.bug_run_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
